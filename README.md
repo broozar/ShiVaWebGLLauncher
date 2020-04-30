@@ -2,6 +2,7 @@
 This small tool converts ShiVa 2.0 HTML5/WebGL exports into pseudo desktop apps by using the various app and kiosk modes of modern desktop browsers.
 
 ## Compatibility
+* unix-like OS (Linux, FreeBSD, etc.)
 * Google Chrome with --app mode
 * Chromium with --app mode
 * Firefox > v.70
