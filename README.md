@@ -24,4 +24,4 @@ Watch on youtube: https://www.youtube.com/watch?v=QhrFf9ATcsU
 * Firefox kiosk mode is slower than Chrome/Chromium app mode and only supports fullscreen
 
 ## Screenshots
-![Launcher default page]("/screenshots/Screenshot from 2020-04-30 14-59-22.png?raw=true")
+![launcher default screen](screenshots/Screenshot from 2020-04-30 14-59-22.png?raw=true)
