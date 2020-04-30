@@ -17,3 +17,8 @@ This small tool converts ShiVa 2.0 HTML5/WebGL exports into pseudo desktop apps 
 
 ## Video
 Watch on youtube: https://www.youtube.com/watch?v=QhrFf9ATcsU
+
+## Known issues and limitations
+* Some effects and engine features do not work on the WebGL engine yet
+* Chrome/Chromium PID detection only works if the browser is not running when launching the game.
+* Firefox kiosk mode is slower than Chrome/Chromium app mode and only supports fullscreen
