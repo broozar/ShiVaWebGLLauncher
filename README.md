@@ -6,7 +6,7 @@ This small tool converts ShiVa 2.0 HTML5/WebGL exports into pseudo desktop apps 
 * Google Chrome with --app mode
 * Chromium with --app mode
 * Firefox > v.70
-* WebGL enabled
+* WebGL enabled, 3D hardware acceleration with proper drivers
 
 ## How to package your game
 0. Export an HTML5/WebGL game from ShiVa 2.0
