@@ -22,6 +22,7 @@ Watch on youtube: https://www.youtube.com/watch?v=QhrFf9ATcsU
 * Some effects and engine features do not work on the WebGL engine yet
 * Chrome/Chromium PID detection only works if the browser is not running when launching the game.
 * Firefox kiosk mode is slower than Chrome/Chromium app mode and only supports fullscreen
+* certain browser hotkey combos can disrupt the experience, like Alt+left/right cursor
 
 ## Screenshots
 ![launcher default screen](screenshots/s1.png)
