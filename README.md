@@ -1,7 +1,13 @@
 # ShiVaWebGLLauncher
-turns ShiVa WebGL games into pseudo desktop apps
+This small tool converts ShiVa 2.0 HTML5/WebGL exports into pseudo desktop apps by using the various app and kiosk modes of modern desktop browsers.
 
-# How to package your game
+## Compatibility
+* Google Chrome with --app mode
+* Chromium with --app mode
+* Firefox > v.70
+* WebGL enabled
+
+## How to package your game
 0. Export an HTML5/WebGL game from ShiVa 2.0
 1. Download this project and unpack
 2. Copy the '''dist''' folder into a new location
@@ -9,4 +15,5 @@ turns ShiVa WebGL games into pseudo desktop apps
 4. Modify the files in '''dist/launcher''' to fit your game
 5. Make '''run.sh''' executable (chmod +x)
 
-# Video
+## Video
+Watch on youtube: https://www.youtube.com/watch?v=QhrFf9ATcsU
