@@ -27,3 +27,5 @@ Watch on youtube: https://www.youtube.com/watch?v=QhrFf9ATcsU
 
 ## Screenshots
 ![launcher default screen](screenshots/s1.png)
+
+![game running](screenshots/s2.png)
