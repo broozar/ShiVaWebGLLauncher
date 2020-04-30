@@ -1,0 +1,3 @@
+SHIVA_GAME_FILES_GO_HERE
+
+ShiVa Files go in this directory. When the launcher tries to start the game, it will look for the index.html file that comes out of the ShiVa export process.
